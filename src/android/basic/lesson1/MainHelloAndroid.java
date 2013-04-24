@@ -11,4 +11,5 @@ public class MainHelloAndroid extends Activity {
         setContentView(R.layout.main);
     }
     //Surprise
+    //Another surprise
 }
